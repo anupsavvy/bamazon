@@ -12,14 +12,14 @@ module.exports = {
 
 Following is the example run :
 
- ## List of all products present with BAmazon : 
+ #### List of all products present with BAmazon : 
 
 1 'laptop' 1300
 2 'pen' 20
 3 'shoes' 100
 4 'leash' 14
-## Enter the id of the item you want to buy : 
+#### Enter the id of the item you want to buy : 
  1
-## How many units would you like to buy? 
+#### How many units would you like to buy? 
  2
-## You need to pay : 2600
+#### You need to pay : 2600
