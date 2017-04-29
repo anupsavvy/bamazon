@@ -14,10 +14,10 @@ Following is the example run :
 
  #### List of all products present with BAmazon : 
 
-1 'laptop' 1300
-2 'pen' 20
-3 'shoes' 100
-4 'leash' 14
+1 'laptop' 1300 <br />
+2 'pen' 20 <br />
+3 'shoes' 100 <br />
+4 'leash' 14 <br />
 #### Enter the id of the item you want to buy : 
  1
 #### How many units would you like to buy? 
